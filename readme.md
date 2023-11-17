@@ -10,7 +10,7 @@ The example is a 11-node cell-cycle regulatory network of budding yeast from a P
 
 ### Network Dynamics
 
-The dynamics of the network is defined over a directed graph, where each arc $(j, i)$ is associated with a weight $a_ij \in\{-1,1\}$. Then the evolution of the Boolean states is governed by
+The dynamics of the network is defined over a directed graph, where each arc $(j, i)$ is associated with a weight $a_{ij} \in\{-1,1\}$. Then the evolution of the Boolean states is governed by
 $$ 
 \begin{array}{l}
 x_i(t+1)=f_i(\sum_{j\in{N_i}}a_{ij}x_j(t)),i=2,3,5,8,9,10;\\
