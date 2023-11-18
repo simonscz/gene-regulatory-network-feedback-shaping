@@ -6,7 +6,7 @@ The codes are implemented in Matlab/Octave, and no special toolboxes are needed.
 
 ## Instructions
 
-The example is a 11-node cell-cycle regulatory network of budding yeast from a PNAS paper ([http://www.pnas.org/cgi/doi/10.1073/pnas.0305937101]). 
+The example is a 11-node cell-cycle regulatory network of budding yeast from F. Li, T. Long, Y. Lu, and C. Tao, The yeast cell-cycle network is robustly designed, 101 (14) 4781-4786, PNAS, 2004 (https://doi.org/10.1073/pnas.0305937101).
 
 ### Network Dynamics
 
